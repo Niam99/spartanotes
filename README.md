@@ -1,2 +1,2 @@
 # spartanotes
-Testing git
+A repositry to test git commands
